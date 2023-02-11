@@ -6,3 +6,4 @@ ViPER4安卓应用配置文件和问题存储库。
 ViPER4Android apk 源代码目前不是开源的，将来可能会也可能不会。
 
 莫莫汉化
+莫莫主页：https://www.mocn.top
