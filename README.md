@@ -8,4 +8,4 @@ ViPER4Android apk源代码目前不是开源的，将来可能会也可能不会
 发行版
 您可以在发布部分找到预构建的二进制文件：[https://github.com/momo54181/ViPER4Android-CN/releases](https://github.com/momo54181/ViPER4Android-CN/releases)
 
-对于中国用户：[https://alist.mocn.top/%E5%88%B7%E6%9C%BA/APP%E8%BD%AF%E4%BB%B6/ViPER4Android](https://alist.mocn.top/%E5%88%B7%E6%9C%BA/APP%E8%BD%AF%E4%BB%B6/ViPER4Android)
+对于**中国大陆**用户：[https://alist.mocn.top/%E5%88%B7%E6%9C%BA/APP%E8%BD%AF%E4%BB%B6/ViPER4Android](https://alist.mocn.top/%E5%88%B7%E6%9C%BA/APP%E8%BD%AF%E4%BB%B6/ViPER4Android)
